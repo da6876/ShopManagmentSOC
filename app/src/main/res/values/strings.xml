@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shop Managment - SOC</string>
+    <string name="shareData">ShopManagment</string>
+
+    <string-array name="Status">
+        <item>Select Status</item>
+        <item>A</item>
+        <item>I</item>
+        <item>O</item>
+    </string-array>
+</resources>

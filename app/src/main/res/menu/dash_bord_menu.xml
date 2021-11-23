@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="example.javatpoint.com.optionmenu.MainActivity">
+
+    <item android:id="@+id/menu_Add"
+        android:title="Filter"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_add_black"
+        app:showAsAction="always" />
+    <item android:id="@+id/menu_Search"
+        android:title="Filter"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="always" />
+</menu>
